@@ -3,8 +3,7 @@
 I'm Alexy, a french dev web student. I specialize in digital accessibility and i'm gonna be graduate in september 2024.
 
 ### 😄 Pronouns
-- Français : Iel/Elle
-- English : They/Them
+  - FR : Iel/Elle EN : They/Them
 
 ### 🌱 I’m currently learning 
 - HTML
