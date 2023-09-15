@@ -19,4 +19,4 @@ I'm Alexy, a french dev web student. I specialize in digital accessibility and i
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexycatelle)](https://github.com/anuraghazra/github-readme-stats)
 
   ### 📫 How to reach me
-  <a href="alexycatelle@gmail.com">📧</a>
+  📧 alexycatelle@gmail.com
