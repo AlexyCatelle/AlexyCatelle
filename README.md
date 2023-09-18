@@ -20,6 +20,7 @@ I specialize in digital accessibility and i'm gonna be graduate in september 202
 ![VS CODE](	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Notion](	https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
@@ -31,6 +32,7 @@ I specialize in digital accessibility and i'm gonna be graduate in september 202
 ### 📈 My stats
 
   ![Les Stats GitHub d'Alexy](https://github-readme-stats.vercel.app/api?username=alexycatelle&show_icons=true&theme=aura_dark)
+
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexycatelle)](https://github.com/anuraghazra/github-readme-stats)
 
