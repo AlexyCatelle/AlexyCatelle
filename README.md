@@ -49,8 +49,6 @@ Je suis maintenant en reconversion professionnelle pour devenir dev web et web m
   ![Les Stats GitHub d'Alexy](https://github-readme-stats.vercel.app/api?username=alexycatelle&show_icons=true&theme=aura_dark&hide=contribs,prs)
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexycatelle)](https://github.com/anuraghazra/github-readme-stats)
-
  
  ### 📫 Comment me contacter
  [![Prontonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](alexycatelle@protonmail.com)
