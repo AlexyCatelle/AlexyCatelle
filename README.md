@@ -1,4 +1,4 @@
-![bannière](https://www.ouaw.net/wp-content/uploads/2020/03/ebinm01-visuel-code-bg-cyan-45.jpg)
+![bannière](https://github-readme-activity-graph.vercel.app/graph?username=alexycatelle&theme=rogue)
 
 
 ### 👋 Hi there 👋
