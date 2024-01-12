@@ -1,4 +1,4 @@
-![gprahiqueStat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={alexycatelle})
+![grahiqueStat]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={alexycatelle}})
 
 
 ### 👋 Hi there 👋
