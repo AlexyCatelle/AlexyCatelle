@@ -13,7 +13,7 @@ Je suis maintenant en reconversion professionnelle pour devenir dev web et web m
 
 ### 📈 Mes stats
 ![stats top language Alexy](https://github-readme-stats.vercel.app/api/top-langs/?username=alexycatelle&theme=gruvbox)
-![Stats strikes](https://github-readme-streak-stats.herokuapp.com/?user=alexycatelle&theme=gruvbox)
+
 
 ### 🌱 J'apprends actuellement ...
 
