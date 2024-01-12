@@ -11,6 +11,9 @@ Je suis maintenant en reconversion professionnelle pour devenir dev web et web m
 
 🎓 Je passe le titre professionnel en Septembre 2024 🎓
 
+### 📈 Mes stats
+![stats top language Alexy](https://github-readme-stats.vercel.app/api/top-langs/?username=alexycatelle&theme=gruvbox)
+![Stats strikes](https://github-readme-streak-stats.herokuapp.com/?user=alexycatelle&theme=gruvbox)
 
 ### 🌱 J'apprends actuellement ...
 
@@ -51,12 +54,6 @@ Je suis maintenant en reconversion professionnelle pour devenir dev web et web m
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 
-### 📈 Mes stats
-
-  ![Les Stats GitHub d'Alexy](https://github-readme-stats.vercel.app/api?username=alexycatelle&show_icons=true&theme=aura_dark&hide=contribs,prs)
-
-
- 
  ### 📫 Comment me contacter
  [![Prontonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](alexycatelle@protonmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexy-catelle-018656184/)
