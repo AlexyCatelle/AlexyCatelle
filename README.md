@@ -1,4 +1,4 @@
-![Alt text](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AlexyCatelle})
+![Alt text](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={alexycatelle})
 
 
 ### 👋 Hi there 👋
