@@ -40,6 +40,8 @@ Je suis maintenant en reconversion professionnelle pour devenir dev web et web m
 
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+)
 ![VS CODE](	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Notion](	https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
