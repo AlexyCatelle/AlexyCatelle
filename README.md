@@ -5,11 +5,9 @@
 
 Je m'appelle Alexy 👋.
 
- J'ai commencé par apprendre **HTML** et **CSS** avec Freecodecamp en validant leur certification **Responsive Web Design**.
+Je suis dev web et web mobile avec une spécialisation en accessibilité numérique.
 
-Je suis maintenant en reconversion professionnelle pour devenir dev web et web mobile avec spécialisation en accessibilité numérique.
-
-🎓 Je passe le titre professionnel en Septembre 2024 🎓
+🎓 Je recherhce une alternance en tant qu'admin système devops 🎓
 
 ### 📈 Mes stats
 ![stats top language Alexy](https://github-readme-stats.vercel.app/api/top-langs/?username=alexycatelle&theme=gruvbox)
