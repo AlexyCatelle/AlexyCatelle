@@ -8,14 +8,11 @@ Je m'appelle Alexy 👋.
 
 Je suis dev web et web mobile avec une spécialisation en accessibilité numérique.
 
-🎓 Je recherhce une alternance en tant qu'admin système devops 🎓
-
 ### 📈 Mes stats
 ![stats top language Alexy](https://github-readme-stats.vercel.app/api/top-langs/?username=alexycatelle&theme=gruvbox)
 
 
 ### 🌱 J'apprends actuellement ...
-
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
