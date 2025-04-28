@@ -6,7 +6,7 @@
 
 Je m'appelle Alexy 👋.
 
-Je suis dev web et web mobile avec une spécialisation en accessibilité numérique.
+Je suis dev web et web mobile avec une spécialisation en accessibilité numérique. Je suis actuellement en formation pour passer le titre professionnel de **Concepteur Developpeur d'Application (CDA)**.
 
 ### 📈 Mes stats
 ![stats top language Alexy](https://github-readme-stats.vercel.app/api/top-langs/?username=alexycatelle&theme=gruvbox)
@@ -18,6 +18,8 @@ Je suis dev web et web mobile avec une spécialisation en accessibilité numéri
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -53,8 +55,7 @@ Je suis dev web et web mobile avec une spécialisation en accessibilité numéri
 ### 👀 Je suis curieuse à propos de / Je veux apprendre ...
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
  ### 📫 Comment me contacter
  [![Prontonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](alexycatelle@protonmail.com)
