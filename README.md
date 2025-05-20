@@ -6,7 +6,7 @@ Je m'appelle **Alexy**.
 Je suis développeur web et web mobile, spécialisé en **accessibilité numérique**.  
 Actuellement, je suis en formation pour obtenir le titre professionnel de :
 
-### 🎓 **Concepteur Développeur d'Application (CDA)**
+###  **Concepteur Développeur d'Application (CDA)**
 
 ---
 
