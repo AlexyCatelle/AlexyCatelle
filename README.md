@@ -89,9 +89,6 @@ J’ai une expérience concrète sur des projets **ERP/CRM (Dolibarr)**, incluan
 - 🔁 **Pipelines de données (Python / SQL)**  
   Nettoyage, structuration et exploitation de données issues de systèmes applicatifs.
 
-- 🚀 **Projet ETL Dataiku (à venir)**  
-  API → transformation Python → chargement & monitoring.
-
 ---
 
 ## 📊 GitHub Stats
